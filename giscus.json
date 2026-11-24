@@ -1,0 +1,4 @@
+{
+  "origins": ["https://openproblems.vercel.app"],
+  "originsRegex": ["http://localhost:3000"]
+}
